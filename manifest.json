@@ -1,0 +1,11 @@
+{
+    "name": "bio",
+    "version": "1.0.0",
+    "description": "eğitim projesi",
+    "manifest_version": 3,
+    "author": "Sude",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+    }
+}
